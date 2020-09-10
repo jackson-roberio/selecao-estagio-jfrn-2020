@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="material-de-apoio/jfrn_logo.png" />
+  <img src="material-de-apoio/img/jfrn_logo.png" />
 </p>
 
 <h1 align="center"> Processo Seletivo para Estágio Remunerado na Justiça Federal no Rio Grande do Norte (JFRN) </h1> 
@@ -27,5 +27,5 @@ TECNOLOGIA DA INFORMAÇÃO (ESPECIALIDADES: DESENVOLVIMENTO, BUSINESS INTELLIGEN
 
 
 <p align="center">
-  <img src="material-de-apoio/nti_logo.png" />
+  <img src="material-de-apoio/img/nti_logo.png" />
 </p>
