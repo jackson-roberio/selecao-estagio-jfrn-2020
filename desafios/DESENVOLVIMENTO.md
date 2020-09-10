@@ -28,11 +28,19 @@ Os avaliadores levarão em consideração os seguintes critérios para valoriza�
 
    - Sua capacidade análita em avaliar o problema e trazer uma solução prática;
    
+   - Sua capacidade em trabalhar com estrutura de dados;
+   
    - Qualidade do código da solução entregue, que envolve:
       - Estrutura de raciocínio lógico para implementação de solução para **P**rogramação **O**rienta a **O**bjetos (**POO**);
       - Código limpo (Coesão e coerencia do código, assim como também boa documentação);
       - Separação de responsabilidades (cada fluxo lógico deve está envolvido no que lhe cabe, use boas práticas de POO).
+      
+Os critérios abaixo não impactaram em alteração de nota, ficando o candidato livre para sua implementação ou não.
 
+   - Implementação de comunicação com Banco de Dados;
+   
+   - Confecçao de interface gráfica para solução desenvolvida.
+      
 
 ## RECOMENDAÇÕES
 
