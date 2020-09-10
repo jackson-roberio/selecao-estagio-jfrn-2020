@@ -24,13 +24,13 @@ Para controle de acesso, o sistema precisará incluir registro de **entrada** e 
 
 ## HABILIDADES AVALIADAS
 
+Os avaliadores levarão em consideração os seguintes critérios para valorização da sua solução:
 
-
-   - Capacidade Análita em avaliar o problema e trazer uma solução prática;
+   - Sua capacidade análita em avaliar o problema e trazer uma solução prática;
    
-   - Qualidade do código:
-      - Estrutura de raciocínio lógico para aplicação de solução para **P**rogramação **O**rienta a **O**bjetos (**POO**);
-      - Código limpo (Coesão, coerencia do código e boa documentação);
+   - Qualidade do código da solução entregue, que envolve:
+      - Estrutura de raciocínio lógico para implementação de solução para **P**rogramação **O**rienta a **O**bjetos (**POO**);
+      - Código limpo (Coesão e coerencia do código, assim como também boa documentação);
       - Separação de responsabilidades (cada fluxo lógico deve está envolvido no que lhe cabe, use boas práticas de POO).
 
 
