@@ -34,7 +34,7 @@ Os desafios destina-se às áreas da tecnologia da informação, nas especialida
       </p>
       
 ``      
-   OBS: Não é necessário a inserção de nenhum **anexo** nas escolhas das especializações. O usuário terá 24 horas para o envio das escolhas das especializações, escolha de especialização enviada fora do prazo serão desconsideradas.   
+OBS: Não é necessário a inserção de nenhum anexo nas escolhas das especializações. O usuário terá 24 horas para o envio das escolhas das especializações, escolha de especialização enviada fora do prazo serão desconsideradas.
 ``
 
    - Por **Github**:
@@ -43,11 +43,11 @@ Os desafios destina-se às áreas da tecnologia da informação, nas especialida
 
 ## 3 - DESAFIOS :round_pushpin: 
 
-### 2 - Desenvolvimento
+### 3.1 - Desenvolvimento
 
-### 2 - Business Inteligence
+### 3.2 - Business Inteligence
 
-### 2 - Gestão de Projetos
+### 3.3 - Gestão de Projetos
 
 
 
