@@ -68,7 +68,7 @@ Para envio da solução do problema de desenvolvimento, é necessário ter reali
 
 O candidato poderá escolher uma das três formas para enviar a solução desenvolvida:
 
-   - **E-mail**: compacte a solução com o código fonte e os arquivos necessários para compilação da solução em um arquivo **.zip**, (re)nomeie esse arquivo para "solução desenvolvimento {seu_nome_completo}", anexe o arquivo zipado no e-mail de resposta desafio desenvolvimento. (Obs. atente-se ao tamanho de sua solução, alguns servidores de e-mail limitam o envio de anexo a uma quantidade definida por eles)
+   - **E-mail**: compacte a solução com o código fonte e os arquivos necessários para compilação da solução em um arquivo **.zip**, (re)nomeie esse arquivo para "solução desenvolvimento {seu_nome_completo}", anexe o arquivo zipado no e-mail de resposta desafio desenvolvimento. (Obs. atente-se ao tamanho de sua solução, alguns servidores de e-mail limitam o envio de anexo a uma quantidade definida por eles).
 
    - **Nuvem**: compacte a solução com o código fonte e os arquivos necessários para compilação da solução em um arquivo **.zip**, (re)nomeie esse arquivo para "solução desenvolvimento {seu_nome_completo}", faça upload do arquivo zipado em uma das plataformas de carregamento de arquivos na nuvem (Google Driver, OneDriver, etc.) a qual podem gerar link compartilhado, gere um link compartilhado para download e adicione esse link a mensagem do e-mail de resposta desafio desenvolvimento.
    
@@ -87,7 +87,7 @@ O candidato poderá escolher uma das três formas para enviar a solução desenv
          - Por github digite: "Código fonte compartilhado com o avaliador de acordo com a imagem em anexo. "
    
 
-**Obs. o candidato terá até 24h00 após as instruções repassadas por e-mail**
+**Obs. o candidato terá até 24h00 para entrega da solução após as instruções repassadas por e-mail.**
 
 
 <p align="right">
