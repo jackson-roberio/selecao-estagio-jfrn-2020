@@ -64,6 +64,8 @@ Ao enviar o desafio, o candidato abre mão de todo e qualquer direito intelectua
 
 Todo material produzido e colhido pelos participantes do processo seletivo de estágio da JFRN no ano de 2020, não tem fim comercial e a justiça não compartilha as informações colhidas neste processo seletivo por terceiros;
 
+A JFRN não garante a permanencia deste repositório após a homologação do processo seletivo.
+
 Desejamos boa sorte!!
 
 <p align="center">
