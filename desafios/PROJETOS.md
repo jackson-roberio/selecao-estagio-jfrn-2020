@@ -8,7 +8,9 @@ Os requisitos iniciais incluem acesso ao sistema pelo usuário externo por integ
 
 Para os usuários internos (JFRN), o login deverá ser feito utilizando as credenciais do Active Directory e o sistema gerencia os pedidos de atendimento realizados pelos usuários externos.
 
-**EQUIPE DO PROJETO E CARACTERÍSTICAS**
+**LINK PARA O QUADRO DE ACOMPANHAMENTO DO PROJETO:* https://trello.com/b/XcBufEDd
+
+**TIME DO PROJETO E CARACTERÍSTICAS**
 
 SCRUM MASTER = **Você**
 
