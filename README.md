@@ -8,9 +8,9 @@
 
 
 
-## 1 - INSTRUÇÕES
+## 1 - INSTRUÇÕES :page_with_curl:
 
-Nesta fase o candidato terá **três** (3) desafios disponíveis, dentre os **três** (3) desafios, o candidato precisará escolher **duas** opções e reportar os desafios escolhidos através de [e-mail](mailto:selecaoestagio@jfrn.jus.br) ou diretamente por este [github](https://github.com/jackson-roberio/scrum-certificate/issues/new).
+Nesta fase o candidato terá **três** (3) desafios disponíveis, dentre os **três** (3) desafios, o candidato precisará escolher **duas** opções e reportar os desafios escolhidos através de [e-mail](mailto:selecaoestagio@jfrn.jus.br) ou diretamente por este [github](https://github.com/jackson-roberio/selecao-estagio-jfrn-2020/issues/new).
 
 Os desafios destina-se às áreas da tecnologia da informação, nas especialidades a qual este documento contempla, sendo elas:
 
@@ -29,10 +29,13 @@ Os desafios destina-se às áreas da tecnologia da informação, nas especialida
       
       Exemplo:
       
+      <p align="center">
+         <img src="material-de-apoio/img/exemplo-email-especializacao.JPG" height="300px" />
+      </p>
       
-      
-      
-**OBS**: Não é necessário a inserção de nenhum **anexo** nas escolhas das especializações. O usuário terá 24 horas para o envio das escolhas das especializações, escolha de especialização enviada fora do prazo serão desconsideradas.   
+```      
+   OBS: Não é necessário a inserção de nenhum **anexo** nas escolhas das especializações. O usuário terá 24 horas para o envio das escolhas das especializações, escolha de especialização enviada fora do prazo serão desconsideradas.   
+```
 
    - Por **Github**:
 
