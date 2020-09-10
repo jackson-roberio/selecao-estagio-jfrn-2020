@@ -33,11 +33,22 @@ Os desafios destina-se às áreas da tecnologia da informação, nas especialida
          <img src="material-de-apoio/img/exemplo-email-especializacao.JPG" height="300px" />
       </p>
       
-```      
+``      
    OBS: Não é necessário a inserção de nenhum **anexo** nas escolhas das especializações. O usuário terá 24 horas para o envio das escolhas das especializações, escolha de especialização enviada fora do prazo serão desconsideradas.   
-```
+``
 
    - Por **Github**:
+
+
+
+## 3 - DESAFIOS :round_pushpin: 
+
+### 2 - Desenvolvimento
+
+### 2 - Business Inteligence
+
+### 2 - Gestão de Projetos
+
 
 
 <p align="center">
