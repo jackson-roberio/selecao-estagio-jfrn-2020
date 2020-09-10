@@ -45,9 +45,15 @@ OBS: Não é necessário a inserção de nenhum anexo nas escolhas das especiali
 
 ### 3.1 - Desenvolvimento
 
+Desenvolver solução de um problema na línguagem Java. Para mais detalhes do desafio [clique aqui](desafios/DESENVOLVIMENTO.md).
+
 ### 3.2 - Business Inteligence
 
+Para mais detalhes do desafio [clique aqui](desafios/BUSINESS_INTELLIGENCE.md).
+
 ### 3.3 - Gestão de Projetos
+
+Para mais detalhes do desafio [clique aqui](desafios/PROJETOS.md).
 
 
 ## 4 - CONCLUSÃO :checkered_flag:
@@ -57,6 +63,8 @@ Este documento é regido pela licença [Mozilla Public License 2.0](https://gith
 Ao enviar o desafio, o candidato abre mão de todo e qualquer direito intelectual da solução entregue;
 
 Todo material produzido e colhido pelos participantes do processo seletivo de estágio da JFRN no ano de 2020, não tem fim comercial e a justiça não compartilha as informações colhidas neste processo seletivo por terceiros;
+
+Desejamos boa sorte!!
 
 <p align="center">
   <img src="material-de-apoio/img/nti_logo.png" />
