@@ -22,7 +22,7 @@ Para controle de acesso, o sistema precisará incluir registro de **entrada** e 
 
 É necessário que o sistema informe a quantidade de pessoas dentro da justiça, informando quantos **funcionários** estão na justiça, quantos **usuários externos** e também informando o quantitativo total (a soma dos **funcinoários** e **usuários externos** dentro da justiça).  
 
-## HABILIDADES AVALIADAS
+## HABILIDADES AVALIADAS :clap:
 
 Os avaliadores levarão em consideração os seguintes critérios para valorização da sua solução:
 
@@ -42,7 +42,7 @@ Os critérios abaixo não impactaram em alteração de nota, ficando o candidato
    - Confecçao de interface gráfica para solução desenvolvida.
       
 
-## RECOMENDAÇÕES
+## RECOMENDAÇÕES :eyes:
 
 Para avaliação plena, é necessário realizar alguns cuidados na confecção de sua solução, sendo eles:
 
@@ -60,7 +60,7 @@ Para avaliação plena, é necessário realizar alguns cuidados na confecção d
    
    - **Bloquear conteúdo com senha de acesso:** este desafio não avalia o grau de segurança da informação da solução entregue, então implementações de lógica de segurança, como: área de login na aplicação com autenticação, filtros de segurança na aplicação e implementação do Spring Security ou alguma biblioteca que tenha este objetivo, devem ser evitadas. Se for enviar a solução em arquivo compactado (.zip), gere-o sem senha.
 
-## ENVIO
+## ENVIO :incoming_envelope:
 
 Para envio da solução do problema de desenvolvimento, é necessário ter realizado a [escolha prévia das especializações](../README.md#2---envio-das-escolhas), garantido a sua participação nesta especialização especificava, o usuário deverá enviar um e-mail de resposta da solução, seguinte as seguintes regras:
 
