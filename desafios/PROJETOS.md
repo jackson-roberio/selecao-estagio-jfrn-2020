@@ -11,7 +11,9 @@ Para os usuários internos (JFRN), o login deverá ser feito utilizando as crede
 **EQUIPE DO PROJETO E CARACTERÍSTICAS**
 
 SCRUM MASTER = **Você**
+
 PRODUCT OWNER (dono do produto) = Diretor do Núcleo Judiciário
+
 DEV TEAM = 2 Servidores da Seção de Gestão e Desenvolvimento de Sistemas e 3 estagiários
 
 
