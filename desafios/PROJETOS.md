@@ -21,10 +21,10 @@ DEV TEAM = 2 Servidores da Seção de Gestão e Desenvolvimento de Sistemas e 3 
 
 **QUESTÕES**
 
-1) Na condição de Scrum Master, você entrou na Sprint 2 do Projeto e recebeu uma única exigência que foi a entrega do Painel de Consulta do Usuário Externo  até a ultima semana de outubro. Para isso, é necessário entregar o módulo de login nessa Sprint atual. Pergunta-se, com base no quadro apresentado, como você sugere o gerenciamento do projeto a partir da Sprint 2? Quais as reuniões e como elas devem acontecer? Quantas Sprints você indica até a entrega do dia 26/10/2020? Quanto de esforço deverá ser entregue em cada Sprint? Quantos dias de duração para cada Sprint?
+1) Na condição de Scrum Master, você entrou na Sprint 2 do Projeto e recebeu uma única exigência que foi a entrega do Painel de Consulta do Usuário Externo  até a ultima semana de outubro. Para isso, é necessário entregar o módulo de login nessa Sprint atual. Pergunta-se, com base no quadro apresentado, como você sugere o gerenciamento do projeto a partir da Sprint 2? Quais as reuniões e como elas devem acontecer? Quantas Sprints você indica até a entrega do dia 26/10/2020? Quanto de esforço deverá ser entregue em cada Sprint? Quantos dias de duração para cada Sprint? **(60 pontos)**
 
-2) Durante a reunião de planejamento da Sprint 2, ao realizar o Planning Poker para estimar esforço, você identifica uma divergência para o card "Criar tabela com as permissões do usuário", com um estagiário votando um número elevado e outro votando um número baixo. Como Scrum Master, como você atua para alinhar o entendimento e chegar ao definido no quadro (esforço estimado 3)?
+2) Durante a reunião de planejamento da Sprint 2, ao realizar o Planning Poker para estimar esforço, você identifica uma divergência para o card "Criar tabela com as permissões do usuário", com um estagiário votando um número elevado e outro votando um número baixo. Como Scrum Master, como você atua para alinhar o entendimento e chegar ao definido no quadro (esforço estimado 3)? **(15 pontos)**
 
-3) O chefe pergunta a você se o login pelo Google está pronto. Com base no quadro, qual a DEFINIÇÃO DE PRONTO para esse projeto?
+3) O chefe pergunta a você se o login pelo Google está pronto. Com base no quadro, qual a DEFINIÇÃO DE PRONTO para esse projeto? **(15 pontos)**
 
-4) Da Sprint 1, ficou um impedimento que ainda não foi resolvido. Discorra em como você atuaria para remover o Card do status de "Em Impedimento."
+4) Da Sprint 1, ficou um impedimento que ainda não foi resolvido. Discorra em como você atuaria para remover o Card do status de "Em Impedimento." **(10 pontos)**
