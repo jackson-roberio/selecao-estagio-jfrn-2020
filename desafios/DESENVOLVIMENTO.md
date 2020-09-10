@@ -72,12 +72,16 @@ O candidato poderá escolher uma das três formas para enviar a solução desenv
 
    - **Nuvem**: compacte a solução com o código fonte e os arquivos necessários para compilação da solução em um arquivo **.zip**, (re)nomeie esse arquivo para "solução desenvolvimento {seu_nome_completo}", faça upload do arquivo zipado em uma das plataformas de carregamento de arquivos na nuvem (Google Driver, OneDriver, etc.) a qual podem gerar link compartilhado, gere um link compartilhado para download e adicione esse link a mensagem do e-mail de resposta desafio desenvolvimento.
    
-   - **Github**:
-
+   - **Github**: se você é usuário do github e pensa em desenvolver a sua solução usando essa plataforma, então garanta que o seu repositório do desafio esteja privado (com visualização bloqueada para usuários que não receberem convite de colaboração), 
+   
+   Manage access
+   
+   
 #### Envio da resposta (e-mail de resposta desafio desenvolvimento)
 
-   - O e-mail deve ser enviado à selecaoestagio@jfrn.jus.br;
-   - O assunto (título da mensagem): Resposta da solução de desenvolvimento por {seu_nome_completo}
+   - **O e-mail** deve ser enviado à selecaoestagio@jfrn.jus.br;
+   - **O assunto (título da mensagem)**: Resposta da solução de desenvolvimento por {seu_nome_completo}
+   - A mensagem deve ser
    
 
 **Obs. o candidato terá até 24h00 após as instruções repassadas por e-mail**
