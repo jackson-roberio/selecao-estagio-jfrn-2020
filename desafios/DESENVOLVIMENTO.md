@@ -79,7 +79,17 @@ O candidato poderá escolher uma das três formas para enviar a solução desenv
 
    - **O e-mail** deve ser enviado à selecaoestagio@jfrn.jus.br;
    - **O assunto (título da mensagem)**: Resposta da solução de desenvolvimento por {seu_nome_completo}
-   - A mensagem deve ser
+   - **A mensagem** deve conter as seguintes informações, cada informação deve ser separada por linha:
+      - *1ª Linha*: {seu_nome_completo},
+      - *2ª Linha*: {indique a disponibilidae do código fonte de acordo com as instruções abaixo}:
+         - Por e-mail digite: "Código fonte enviado por anexo.";
+         - Pela nuvem digite: "Código fonte disponível na nuvem através do link {inserir_link_compartilhado_da_solução}.";
+         - Por github digite: "Código fonte compartilhado com o avaliador de acordo com a imagem em anexo. "
    
 
 **Obs. o candidato terá até 24h00 após as instruções repassadas por e-mail**
+
+
+<p align="center">
+  <i>Boa sorte!</i>
+</p>
