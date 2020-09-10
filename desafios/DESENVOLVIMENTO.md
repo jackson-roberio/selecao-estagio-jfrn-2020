@@ -26,6 +26,13 @@ Para controle de acesso, o sistema precisará incluir registro de **entrada** e 
 
 
 
+   - Capacidade Análita em avaliar o problema e trazer uma solução prática;
+   
+   - Qualidade do código:
+      - Estrutura de raciocínio lógico para aplicação de solução para **P**rogramação **O**rienta a **O**bjetos (**POO**);
+      - Código limpo (Coesão, coerencia do código e boa documentação);
+      - Separação de responsabilidades (cada fluxo lógico deve está envolvido no que lhe cabe, use boas práticas de POO).
+
 
 ## RECOMENDAÇÕES
 
