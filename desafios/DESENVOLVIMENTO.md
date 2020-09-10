@@ -60,3 +60,7 @@ Para avaliação plena, é necessário realizar alguns cuidados na confecção d
 
 ## ENVIO
 
+Para envio da solução do problema de desenvolvimento, é necessário ter realizado a [escolha prévia das especializações](../README.md#2---envio-das-escolhas), garantido a sua participação nesta especialização especificava, o usuário deverá um e-mail da resposta da solução, seguinte as seguintes regras:
+
+
+
