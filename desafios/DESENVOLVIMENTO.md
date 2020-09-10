@@ -16,9 +16,11 @@ O desafio tem por objetivo resolver uma problematica, de um cenário presente na
 
 A JFRN está planejando o retorno do atendimento presencial ao público externo, e para isto precisa gerenciar o controle dos visitantes e funcionários dentro do prédio da JFRN, de acordo com a nova portaria do *Conselho Nacional da Justiça* (CNJ) e devido o atual cenário nacional da pandemia do Covid-19,  os prédios do judiciário só poderão comportar até 50 **usuários externos** dentro do prédio da JFRN e para **funcionários (servidores, estagiários, terceirizados e trabalhadores da JFRN)** este limite não é imposto.
 
-De acordo com as especificações repassadas, se faz necessário a criação de um sistema desenvolvido na linguagem Java, que insira ou que já tenha inserido em uma lista ou em um Banco de Dados os usuários que entrarão na JFRN, esses usuários poderão ser usuário externo ou funcionários, o sistema deve identificar se o usuário que está entrando é visitante (**usuário externo**) ou é um **funcionário**  de acordo com os dados já cadastrados no sistema (que serão consumidos de uma lista ou de um banco de dados). 
+De acordo com as especificações repassadas, se faz necessário a criação de um sistema desenvolvido na linguagem Java, que insira ou que já tenha inserido em uma lista ou em um Banco de Dados, os usuários que entrarão na JFRN, esses usuários poderão ser **usuário externo** ou **funcionários**, o sistema deve identificar se o usuário que está entrando é visitante (**usuário externo**) ou é um **funcionário**  de acordo com os dados já cadastrados no sistema (que serão consumidos de uma lista ou de um banco de dados). 
 
-Para controle de acesso, o sistema precisará incluir registro de entrada para o visitante....
+Para controle de acesso, o sistema precisará incluir registro de **entrada** e **saída** para os **usuários externos** e **funcionários**, podendo ter apenas 50 **usuários externos** dentro do prédio da JFRN e não limitando a entrada para **funcionários**, entretanto, o sistema não deve impedir a entrada de **usuários externos** dentro da JFRN se a soma de **funcinários** e **usuários externos** dentro da JFRN ultrapassar a quantidade de 50, o sistema deverá fazer a verificação apenas se há uma quantidade máxima de 50 visitantes como **usuários externos** dentro do próprio da Justiça.
+
+
 indentificar quantos visitantes do tipo **usuário externo** estão dentro da JFRN e impedir a ent
 
 não necessitando ter interface gráfica, conexão com Sistema Gerenciado 
