@@ -90,6 +90,6 @@ O candidato poderá escolher uma das três formas para enviar a solução desenv
 **Obs. o candidato terá até 24h00 após as instruções repassadas por e-mail**
 
 
-<p align="center">
+<p align="right">
   <i>Boa sorte!</i>
 </p>
