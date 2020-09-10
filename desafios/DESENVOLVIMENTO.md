@@ -66,9 +66,15 @@ Para envio da solução do problema de desenvolvimento, é necessário ter reali
 
 #### Diponibilização do Código Fonte
 
+O candidato poderá escolher uma das três formas para enviar a solução desenvolvida:
 
+   - **E-mail**: compacte a solução com o código fonte e os arquivos necessários para compilação da solução em um arquivo **.zip**,   
 
-### Envio da resposta
+   - **Nuvem**: 
+   
+   - **Github**:
+
+#### Envio da resposta
 
    - O e-mail deve ser enviado à selecaoestagio@jfrn.jus.br;
    - O assunto (título da mensagem): Resposta da solução de desenvolvimento por {seu_nome_completo}
