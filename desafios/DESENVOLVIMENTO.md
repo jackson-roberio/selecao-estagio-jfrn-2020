@@ -5,7 +5,7 @@
 
 # DESAFIO: DESENVOLVIMENTO :octocat:
 
-O desafio tem por objetivo resolver uma problematica, de um cenário presente na Justiça Federal no Rio Grande do Norte (JFRN). Esta necessita implica na entrega de um software, desenvolvido na linguage de programação Java, 
+O desafio tem por objetivo resolver uma problematica de um cenário presente na Justiça Federal no Rio Grande do Norte (JFRN). Esta problemática implica na entrega de um software desenvolvido na linguage de programação Java, onde o cenário é descrito logo abaixo. 
 
 ## PROBLEMÁTICA
 
@@ -18,14 +18,12 @@ A JFRN está planejando o retorno do atendimento presencial ao público externo,
 
 De acordo com as especificações repassadas, se faz necessário a criação de um sistema desenvolvido na linguagem Java, que insira ou que já tenha inserido em uma lista ou em um Banco de Dados, os usuários que entrarão na JFRN, esses usuários poderão ser **usuário externo** ou **funcionários**, o sistema deve identificar se o usuário que está entrando é visitante (**usuário externo**) ou é um **funcionário**  de acordo com os dados já cadastrados no sistema (que serão consumidos de uma lista ou de um banco de dados). 
 
-Para controle de acesso, o sistema precisará incluir registro de **entrada** e **saída** para os **usuários externos** e **funcionários**, podendo ter apenas 50 **usuários externos** dentro do prédio da JFRN e não limitando a entrada para **funcionários**, entretanto, o sistema não deve impedir a entrada de **usuários externos** dentro da JFRN se a soma de **funcinários** e **usuários externos** dentro da JFRN ultrapassar a quantidade de 50, o sistema deverá fazer a verificação apenas se há uma quantidade máxima de 50 visitantes como **usuários externos** dentro do próprio da Justiça.
+Para controle de acesso, o sistema precisará incluir registro de **entrada** e **saída** para os **usuários externos** e **funcionários**, ~podendo ter apenas 50 **usuários externos** dentro do prédio da JFRN e não limitando a entrada para **funcionários**, entretanto, o sistema não deve impedir a entrada de **usuários externos** dentro da JFRN se a soma de **funcinários** e **usuários externos** dentro da JFRN ultrapassar a quantidade de 50, o sistema deverá fazer a verificação apenas se há uma quantidade máxima de 50 visitantes como **usuários externos** dentro do próprio da Justiça.~
 
-
-indentificar quantos visitantes do tipo **usuário externo** estão dentro da JFRN e impedir a ent
-
-não necessitando ter interface gráfica, conexão com Sistema Gerenciado 
+É necessário que o sistema informe a quantidade de pessoas dentro da justiça, informando quantos **funcionários** estão na justiça, quantos **usuários externos** e também informando o quantitativo total (a soma dos **funcinoários** e **usuários externos** dentro da justiça).  
 
 ## HABILIDADES AVALIADAS
+
 
 
 
@@ -35,13 +33,15 @@ Para avaliação plena, é necessário realizar alguns cuidados na confecção d
 
    - **Compilar em Java 8:** verifique a versão do seu Java e se disponível e possível construa a sua solução em estrutura do Java 8, vacilitará na avaliação pelos supervisores;
 
-   - **JaxaFX, Swing & AWT:**
+   - As API's: **JaxaFX, Swing & AWT** devem ser evitadas para elaboração e entrega dessa solução;
 
-   - **Evite arquivos desnecessários, uso gitignore:** ao desenvolver soluções na linguagem Java, o interpretador da linguagem gera muitos arquivos que tem por objetivo uso exclusivo da JVM ou da sua IDE, como por exemplos os arquivos com extensão *.class*, neste documento indicamos o gitignore com essa configuração mínima: [clique para visualizar  um exemplo do gitignore para Java](../.gitignore).
+   - **Evite arquivos desnecessários, uso gitignore:** ao desenvolver soluções na linguagem Java, o interpretador da linguagem gera muitos arquivos que tem por objetivo uso exclusivo da JVM ou da sua IDE, como por exemplos os arquivos com extensão *.class*, neste documento indicamos o gitignore com essa configuração mínima: [clique para visualizar  um exemplo do gitignore para Java](../.gitignore);
    
-   - **Se possível, use o Eclipse:** o candidato tem autonomia para usar a ferramenta que mais lhe agrada, porém, o cuidado com os arquivos gerados por causa do Ambiente de Desenvolvimento Integrado (do inglês IDE) deve ser realizado. A fiscalização usará a IDE do Eclipse para avaliação dos trabalho.
+   - **Se possível, use o Eclipse:** o candidato tem autonomia para usar a ferramenta que mais lhe agrada, porém, o cuidado com os arquivos gerados por causa do Ambiente de Desenvolvimento Integrado (do inglês IDE) deve ser realizado. A fiscalização usará a IDE do Eclipse para avaliação dos trabalho;
    
-   - **Javadoc e Comentário no código:** optem por comentários na lingua português do Brasil, evitem registrar comentários em inglês ou em outra língua. 
+   - **Javadoc e Comentário no código:** optem por comentários na lingua português do Brasil, evitem registrar comentários em inglês ou em outra língua;
+   
+   - **Soluções com interface gráfica:** o único cenário que será aceito o desenvolvimento de uma solução contendo uma Interface Gráfica e os desenvolvidos em *JavaServer Faces* (**JSF**), soluções de interface gráfica entregues com JS, Angular, Vue jS, PHP e outros fora do ecosistema Java, serão ignoradas;  
 
 ## ENVIO
 
