@@ -56,11 +56,22 @@ Para avaliação plena, é necessário realizar alguns cuidados na confecção d
    
    - **Javadoc e Comentário no código:** optem por comentários na lingua português do Brasil, evitem registrar comentários em inglês ou em outra língua;
    
-   - **Soluções com interface gráfica:** o único cenário que será aceito o desenvolvimento de uma solução contendo uma Interface Gráfica e os desenvolvidos em *JavaServer Faces* (**JSF**), soluções de interface gráfica entregues com JS, Angular, Vue jS, PHP e outros fora do ecosistema Java, serão ignoradas;  
+   - **Soluções com interface gráfica:** o único cenário que será aceito o desenvolvimento de uma solução contendo uma Interface Gráfica e os desenvolvidos em *JavaServer Faces* (**JSF**), soluções de interface gráfica entregues com JS, Angular, Vue jS, PHP e outros fora do ecosistema Java, serão ignoradas;
+   
+   - **Bloquear conteúdo com senha de acesso:** este desafio não avalia o grau de segurança da informação da solução entregue, então implementações de lógica de segurança, como: área de login na aplicação com autenticação, filtros de segurança na aplicação e implementação do Spring Security ou alguma biblioteca que tenha este objetivo, devem ser evitadas. Se for enviar a solução em arquivo compactado (.zip), gere-o sem senha.
 
 ## ENVIO
 
-Para envio da solução do problema de desenvolvimento, é necessário ter realizado a [escolha prévia das especializações](../README.md#2---envio-das-escolhas), garantido a sua participação nesta especialização especificava, o usuário deverá um e-mail da resposta da solução, seguinte as seguintes regras:
+Para envio da solução do problema de desenvolvimento, é necessário ter realizado a [escolha prévia das especializações](../README.md#2---envio-das-escolhas), garantido a sua participação nesta especialização especificava, o usuário deverá enviar um e-mail de resposta da solução, seguinte as seguintes regras:
+
+#### Diponibilização do Código Fonte
 
 
 
+### Envio da resposta
+
+   - O e-mail deve ser enviado à selecaoestagio@jfrn.jus.br;
+   - O assunto (título da mensagem): Resposta da solução de desenvolvimento por {seu_nome_completo}
+   
+
+**Obs. o candidato terá até 24h00 após as instruções repassadas por e-mail**
