@@ -9,7 +9,10 @@ O desafio tem por objetivo resolver uma problematica, de um cenário presente na
 
 ## PROBLEMÁTICA
 
-*(Está situação é ilustrativa)*
+<p align="center">
+  <i>(Situação meramente ilustrativa)</i>
+</p>
+
 
 A JFRN está planejando o retorno do atendimento presencial ao público externo, e para isto precisa gerenciar o controle dos visitantes e funcionários dentro do prédio da JFRN, de acordo com a nova portaria do *Conselho Nacional da Justiça* (CNJ) e devido o atual cenário nacional da pandemia do Covid-19,  os prédios do judiciário só poderão comportar até 50 **usuários externos** dentro do prédio da JFRN e para **funcionários (servidores, estagiários, terceirizados e trabalhadores da JFRN)** este limite não é imposto.
 
