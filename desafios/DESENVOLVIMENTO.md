@@ -72,7 +72,7 @@ O candidato poderá escolher uma das três formas para enviar a solução desenv
 
    - **Nuvem**: compacte a solução com o código fonte e os arquivos necessários para compilação da solução em um arquivo **.zip**, (re)nomeie esse arquivo para "solução desenvolvimento {seu_nome_completo}", faça upload do arquivo zipado em uma das plataformas de carregamento de arquivos na nuvem (Google Driver, OneDriver, etc.) a qual podem gerar link compartilhado, gere um link compartilhado para download e adicione esse link a mensagem do e-mail de resposta desafio desenvolvimento.
    
-   - **Github**: se você é usuário do github e pensa em desenvolver a sua solução usando essa plataforma, então garanta que o seu repositório do desafio esteja privado (com visualização bloqueada para usuários que não receberem convite de colaboração), e envie um convite de colaboração para sua solução em *Manage access* (Gerenciar acesso) para o usuário [jackson-roberio](https://github.com/jackson-roberio).
+   - **Github**: se você é usuário do github e pensa em desenvolver a sua solução usando essa plataforma, então garanta que o seu repositório do desafio esteja privado (com visualização bloqueada para usuários que não receberem convite de colaboração), e envie um convite de colaboração para sua solução em *Manage access* (Gerenciar acesso) para o usuário [jackson-roberio](https://github.com/jackson-roberio), registre um printScreen da tela de compartilhamento, mostrando que o convite foi enviado, anexe o printScreen no email de resposta desafio desenvolvimento, com o título de: "comprovante convite github".
 
    
 #### Envio da resposta (e-mail de resposta desafio desenvolvimento)
