@@ -22,41 +22,40 @@ De acordo com as especificações repassadas, você foi convidado a criar um sis
 
 ## HABILIDADES AVALIADAS :clap:
 
-Os avaliadores levarão em consideração os seguintes critérios para valorização da sua solução:
+O avaliador levará em consideração os seguintes critérios para analisar a solução entregue:
 
-   - Sua capacidade análita em avaliar o problema e trazer uma solução prática;
+   - Sua capacidade analítica em avaliar o problema e trazer uma solução prática;   
    
    - Sua capacidade em trabalhar com estrutura de dados;
    
-   - Qualidade do código da solução entregue, que envolve:
-      - Estrutura de raciocínio lógico para implementação de solução para **P**rogramação **O**rienta a **O**bjetos (**POO**);
-      - Código limpo (Coesão e coerencia do código, assim como também boa documentação);
-      - Separação de responsabilidades (cada fluxo lógico deve está envolvido no que lhe cabe, use boas práticas de POO).
+   - Qualidade de código, que envolve:
+      - Estrutura de raciocínio lógico implementada na solução em Programação Orienta a Objetos (POO);
+      - Código limpo (coesão e coerência de código);
+      - Separação de responsabilidades (use boas práticas de programação).
       
-Os critérios abaixo não impactaram em alteração de nota, ficando o candidato livre para sua implementação ou não.
+Os critérios abaixo não serão avaliados, ficando o candidato livre para sua implementação.
 
-   - Implementação de comunicação com Banco de Dados;
+   - Realizar comunicação com banco de dados;
    
-   - Confecçao de interface gráfica para solução desenvolvida.
-      
+   - Desenvolver interface gráfica para a solução desenvolvida.
 
 ## RECOMENDAÇÕES :eyes:
 
-Para avaliação plena, é necessário realizar alguns cuidados na confecção de sua solução, sendo eles:
+Para avaliação plena, é necessário realizar alguns cuidados no desenvolvimento de sua solução, sendo eles:
 
-   - **Compilar em Java 8:** verifique a versão do seu Java e se disponível e possível construa a sua solução em estrutura do Java 8, vacilitará na avaliação pelos supervisores;
+   - **Compile em Java 8:** verifique a versão do seu Java e se possível construa a sua solução com a estrutura do Java 8, facilitará na avaliação do avaliador;
 
-   - As API's: **JaxaFX, Swing & AWT** devem ser evitadas para elaboração e entrega dessa solução;
+   - As API's: **JaxaFX, Swing & AWT** devem ser evitadas para elaboração e entrega desta solução;
 
-   - **Evite arquivos desnecessários, uso gitignore:** ao desenvolver soluções na linguagem Java, o interpretador da linguagem gera muitos arquivos que tem por objetivo uso exclusivo da JVM ou da sua IDE, como por exemplos os arquivos com extensão *.class*, neste documento indicamos o gitignore com essa configuração mínima: [clique para visualizar  um exemplo do gitignore para Java](../.gitignore);
+   - **Evite arquivos desnecessários, use gitignore:** ao desenvolver soluções na linguagem Java, o interpretador da linguagem gera muitos arquivos que tem por objetivo o uso exclusivo da JVM ou da sua IDE, como por exemplos os arquivos com extensão *.class*. Neste documento indicamos o gitignore com essa configuração mínima: [clique para visualizar  um exemplo do gitignore para Java](../.gitignore);
    
-   - **Se possível, use o Eclipse:** o candidato tem autonomia para usar a ferramenta que mais lhe agrada, porém, o cuidado com os arquivos gerados por causa do Ambiente de Desenvolvimento Integrado (do inglês IDE) deve ser realizado. A fiscalização usará a IDE do Eclipse para avaliação dos trabalho;
+   - **Se possível, use o Eclipse IDE:** o candidato tem autonomia para usar a ferramenta que mais lhe agrada. Porém, o cuidado com os arquivos gerados por causa do Ambiente de Desenvolvimento Integrado (do inglês IDE) deve ser realizado. O avaliador usará a IDE do Eclipse para avaliar as soluções;
    
-   - **Javadoc e Comentário no código:** optem por comentários na lingua português do Brasil, evitem registrar comentários em inglês ou em outra língua;
+   - **Javadoc e Comentário no código:** caso seja necessário, optem por comentários em português, evitem registrar comentários em inglês ou em outro idioma;
    
-   - **[OPCIONAL] Soluções com interface gráfica:** o único cenário que será aceito o desenvolvimento de uma solução contendo uma interface gráfica é o desenvolvido em *JavaServer Faces* (**JSF**). Soluções de interfaces gráficas entregues com JS, Angular, Vue jS, PHP e outros fora do ecosistema Java, serão ignoradas;
+   - **[OPCIONAL] Soluções com interface gráfica:** o único cenário que será aceito o desenvolvimento de uma solução contendo uma interface gráfica é o desenvolvido em *JavaServer Faces* (*JSF*). Soluções entregues com JavaScript, Angular, Vue JS, PHP ou outra linguagem fora do ecossistema Java, serão ignoradas;
    
-   - **Bloquear conteúdo com senha de acesso:** este desafio não avalia o grau de segurança da informação da solução entregue, então implementações de lógica de segurança, como: área de login na aplicação com autenticação, filtros de segurança na aplicação e implementação do Spring Security ou alguma biblioteca que tenha este objetivo, devem ser evitadas. Se for enviar a solução em arquivo compactado (.zip), gere-o sem senha.
+   - **Não bloquear conteúdo com senha de acesso:** Se for enviar a solução em arquivo compactado (.zip), gere-o sem senha.
 
 ## ENVIO :incoming_envelope:
 
@@ -68,34 +67,30 @@ O candidato poderá escolher uma das três formas para enviar a solução desenv
 
    - **E-mail**: compacte a solução com o código fonte e os arquivos necessários para compilação da solução em um arquivo **.zip**, (re)nomeie esse arquivo para "solução desenvolvimento {seu_nome_completo}", anexe o arquivo zipado no e-mail de resposta desafio desenvolvimento. (Obs. atente-se ao tamanho de sua solução, alguns servidores de e-mail limitam o envio de anexo a uma quantidade definida por eles).
 
-   - **Nuvem**: compacte a solução com o código fonte e os arquivos necessários para compilação da solução em um arquivo **.zip**, (re)nomeie esse arquivo para "solução desenvolvimento {seu_nome_completo}", faça upload do arquivo zipado em uma das plataformas de carregamento de arquivos na nuvem (Google Driver, OneDriver, etc.) a qual podem gerar link compartilhado, gere um link compartilhado para download e adicione esse link a mensagem do e-mail de resposta desafio desenvolvimento.
+   - **Nuvem**: compacte a solução com o código fonte e os arquivos necessários para compilação da solução em um arquivo **.zip**, (re)nomeie esse arquivo para "solução desenvolvimento {seu_nome_completo}", faça upload do arquivo zipado em uma das plataformas de carregamento de arquivos na nuvem (Google Drive, OneDrive, Dropbox, etc.) a qual podem gerar link compartilhado, gere um link compartilhado para download e adicione esse link a mensagem do e-mail de resposta desafio desenvolvimento.
    
   <p align="center">
     <a href="../material-de-apoio/img/exemplo-zip-solucao-desenvolvimento.JPG"> Imagem exemplo de nome do arquivo zipado </a>
   </p>
-      
    
    - **Github**: se você é usuário do github e pensa em desenvolver a sua solução usando essa plataforma, então garanta que o seu repositório do desafio esteja privado (com visualização bloqueada para usuários que não receberem convite de colaboração), e envie um convite de colaboração para sua solução em *Manage access* (Gerenciar acesso) para o usuário [jackson-roberio](https://github.com/jackson-roberio), registre um printScreen da tela de compartilhamento, mostrando que o convite foi enviado, anexe o printScreen no email de resposta desafio desenvolvimento, com o título de: "comprovante convite github".
 
   <p align="center">
     <a href="../material-de-apoio/img/exemplo-compartilhamento-github.jpg">Imagem exemplo de printScreen do compartilhamento via Github.</a>
   </p>
-
    
 #### Envio da resposta (e-mail de resposta desafio desenvolvimento)
 
    - **O e-mail** deve ser enviado à selecaoestagio@jfrn.jus.br;
-   - **O assunto (título da mensagem)**: Resposta da solução de desenvolvimento por {seu_nome_completo}
+   - **O assunto (título do e-mail)**: Resposta da solução de desenvolvimento por {seu_nome_completo}
    - **A mensagem** deve conter as seguintes informações, cada informação deve ser separada por linha:
       - *1ª Linha*: {seu_nome_completo},
       - *2ª Linha*: {indique a disponibilidae do código fonte de acordo com as instruções abaixo}:
          - **Por e-mail digite**: "Código fonte enviado por anexo.";
          - **Pela nuvem digite**: "Código fonte disponível na nuvem através do link {inserir_link_compartilhado_da_solução}.";
          - **Por github digite**: "Código fonte compartilhado com o avaliador de acordo com a imagem em anexo. "
-   
 
 **Obs. o candidato terá até 24h00 para entrega da solução após as instruções repassadas por e-mail.**
-
 
 <p align="right">
   <i>Boa sorte!</i>
