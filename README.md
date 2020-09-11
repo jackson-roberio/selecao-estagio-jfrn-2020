@@ -2,11 +2,11 @@
   <img src="material-de-apoio/img/jfrn_logo.png" width="20%" />
 </p>
 
-<h1 align="center"> Processo Seletivo para Estágio Remunerado na Justiça Federal no Rio Grande do Norte (JFRN)</h1> 
+# Processo Seletivo para Estágio Remunerado na Justiça Federal no Rio Grande do Norte (JFRN)
 
-<p align="justify">Este documento tem por objetivo instruir e orientar sobre a segunda (2ª) fase aos candidatos <a href='https://www.jfrn.jus.br/administracao/estagios/2020/edital-resultado-1a-fase.pdf' target='_blank' >aprovados na primeira (1ª) fase</a> do processo seletivo para estágio remunerado na JFRN para estudos da área de Tecnologia da Informação, nas especializações: Desenvolvimento, Business Inteligence & Gestão de Projetos.</p>
+Este documento tem por objetivo instruir e orientar sobre a segunda (2ª) fase aos candidatos <a href='https://www.jfrn.jus.br/administracao/estagios/2020/edital-resultado-1a-fase.pdf' target='_blank' >aprovados na primeira (1ª) fase</a> do processo seletivo para estágio remunerado na JFRN para estudos da área de Tecnologia da Informação, nas especializações: Desenvolvimento, Business Inteligence & Gestão de Projetos.
 
-## 1 - DESAFIOS :page_with_curl:
+## 1 - DESAFIOS
 
 Nesta fase o candidato terá **três** (3) desafios disponíveis e precisa escolher **duas**.
 
@@ -29,7 +29,7 @@ Os desafios destinam-se às áreas da Tecnologia da Informação e Comunicação
 - Caso os tamanhos dos arquivos a serem anexados ultrapassem o limite permitido pelo e-mail, é possível colocá-los em algum serviço em nuvem (Google Drive, OneDrive, Dropbox, entre outros) e compartilhá-los copiando o link no e-mail.
 - Em caso de dúvidas durante a avaliação, enviar e-mail para selecaoestagio@jfrn.jus.br.
 
-## 3 - CONCLUSÃO :checkered_flag:
+## 3 - CONCLUSÃO
 
 Este documento é regido pela licença [Mozilla Public License 2.0](https://github.com/jackson-roberio/selecao-estagio-jfrn-2020/blob/master/LICENSE), sendo vedada a distribuição e edição sem consentimento prévio da JFRN;
 
@@ -40,7 +40,3 @@ Todo material produzido e colhido pelos participantes do processo seletivo de es
 A JFRN não garante a permanencia deste repositório após a homologação do processo seletivo.
 
 Desejamos boa sorte!!
-
-<p align="center">
-  <img src="material-de-apoio/img/nti_logo.png" width="20%" />
-</p>
