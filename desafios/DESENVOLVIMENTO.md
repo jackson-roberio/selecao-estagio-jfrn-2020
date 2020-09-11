@@ -2,10 +2,9 @@
   <img src="../material-de-apoio/img/jfrn_logo.png" />
 </p>
 
-
 # DESAFIO: DESENVOLVIMENTO :octocat:
 
-O desafio tem por objetivo resolver uma problematica de um cenário presente na Justiça Federal no Rio Grande do Norte (JFRN). Esta problemática implica na entrega de um software desenvolvido na linguage de programação Java, onde o cenário é descrito logo abaixo. 
+O desafio tem por objetivo resolver uma problemática de um cenário presente na Justiça Federal no Rio Grande do Norte (JFRN). Esta problemática implica na entrega de um *software* desenvolvido na linguagem de programação Java, onde o cenário é descrito logo abaixo.
 
 ## PROBLEMÁTICA
 
@@ -13,14 +12,13 @@ O desafio tem por objetivo resolver uma problematica de um cenário presente na 
   <i>(Situação meramente ilustrativa)</i>
 </p>
 
+A JFRN está planejando o retorno do atendimento presencial ao público externo e para isto precisa gerenciar o controle de acesso de pessoas. As pessoas podem ser **visitantes** (advogados, partes e testemunhas) ou **funcionários** (magistrados, servidores, estagiários e colaboradores da JFRN).
 
-A JFRN está planejando o retorno do atendimento presencial ao público externo, e para isto precisa gerenciar o controle dos visitantes e funcionários dentro do prédio da JFRN, de acordo com a nova portaria do *Conselho Nacional da Justiça* (CNJ) e devido o atual cenário nacional da pandemia do Covid-19,  os prédios do judiciário só poderão comportar até 50 **usuários externos** dentro do prédio da JFRN e para **funcionários (servidores, estagiários, terceirizados e trabalhadores da JFRN)** este limite não é imposto.
+De acordo com a nova portaria do Conselho Nacional da Justiça (CNJ) e devido ao atual cenário nacional da pandemia do Covid-19, o prédio sede, em Natal, só poderá comportar até **50 visitantes** simultaneamente. Este requisito não se aplica aos funcionários.
 
-De acordo com as especificações repassadas, se faz necessário a criação de um sistema desenvolvido na linguagem Java, que insira ou que já tenha inserido em uma lista ou em um Banco de Dados, os usuários que entrarão na JFRN, esses usuários poderão ser **usuário externo** ou **funcionários**, o sistema deve identificar se o usuário que está entrando é visitante (**usuário externo**) ou é um **funcionário**  de acordo com os dados já cadastrados no sistema (que serão consumidos de uma lista ou de um banco de dados). 
+De acordo com as especificações repassadas, você foi convidado a criar um sistema Web onde seja possível gerenciar o fluxo de pessoas no prédio da JFRN, registrando a data e horário de **entrada** e **saída**. O sistema deve identificar se a pessoa que está acessando o prédio é visitante ou funcionário.
 
-Para controle de acesso, o sistema precisará incluir registro de **entrada** e **saída** para os **usuários externos** e **funcionários**, ~podendo ter apenas 50 **usuários externos** dentro do prédio da JFRN e não limitando a entrada para **funcionários**, entretanto, o sistema não deve impedir a entrada de **usuários externos** dentro da JFRN se a soma de **funcinários** e **usuários externos** dentro da JFRN ultrapassar a quantidade de 50, o sistema deverá fazer a verificação apenas se há uma quantidade máxima de 50 visitantes como **usuários externos** dentro do próprio da Justiça.~
-
-É necessário que o sistema informe a quantidade de pessoas dentro da justiça, informando quantos **funcionários** estão na justiça, quantos **usuários externos** e também informando o quantitativo total (a soma dos **funcinoários** e **usuários externos** dentro da justiça).  
+É necessário que o sistema informe a quantidade de pessoas que estão na Justiça Federal, separando-os em total de funcionários e total de visitantes.
 
 ## HABILIDADES AVALIADAS :clap:
 
@@ -56,7 +54,7 @@ Para avaliação plena, é necessário realizar alguns cuidados na confecção d
    
    - **Javadoc e Comentário no código:** optem por comentários na lingua português do Brasil, evitem registrar comentários em inglês ou em outra língua;
    
-   - **Soluções com interface gráfica:** o único cenário que será aceito o desenvolvimento de uma solução contendo uma Interface Gráfica e os desenvolvidos em *JavaServer Faces* (**JSF**), soluções de interface gráfica entregues com JS, Angular, Vue jS, PHP e outros fora do ecosistema Java, serão ignoradas;
+   - **[OPCIONAL] Soluções com interface gráfica:** o único cenário que será aceito o desenvolvimento de uma solução contendo uma interface gráfica é o desenvolvido em *JavaServer Faces* (**JSF**). Soluções de interfaces gráficas entregues com JS, Angular, Vue jS, PHP e outros fora do ecosistema Java, serão ignoradas;
    
    - **Bloquear conteúdo com senha de acesso:** este desafio não avalia o grau de segurança da informação da solução entregue, então implementações de lógica de segurança, como: área de login na aplicação com autenticação, filtros de segurança na aplicação e implementação do Spring Security ou alguma biblioteca que tenha este objetivo, devem ser evitadas. Se for enviar a solução em arquivo compactado (.zip), gere-o sem senha.
 
