@@ -8,7 +8,7 @@ Este documento tem por objetivo instruir e orientar sobre a segunda (2ª) fase a
 
 ## 1 - DESAFIOS
 
-Nesta fase o candidato terá **três** (3) desafios disponíveis e precisa escolher **dois**.
+Nesta fase o candidato terá **três** (3) desafios disponíveis e precisa escolher **dois** (2).
 
 Os desafios destinam-se às áreas da Tecnologia da Informação e Comunicação (TIC), nas especialidades contempladas neste documento, sendo elas:
 
@@ -29,7 +29,7 @@ Os desafios destinam-se às áreas da Tecnologia da Informação e Comunicação
 - Caso os tamanhos dos arquivos a serem anexados ultrapassem o limite permitido pelo e-mail, é possível colocá-los em algum serviço em nuvem (Google Drive, OneDrive, Dropbox, entre outros) e compartilhá-los copiando o link no e-mail.
 - Em caso de dúvidas durante a avaliação, enviar e-mail para selecaoestagio@jfrn.jus.br.
 
-## 3 - CONCLUSÃO
+## 3 - CONSIDERAÇÕES FINAIS
 
 Este documento é regido pela licença [Mozilla Public License 2.0](https://github.com/jackson-roberio/selecao-estagio-jfrn-2020/blob/master/LICENSE), sendo vedada a distribuição e edição sem consentimento prévio da JFRN;
 
