@@ -1,7 +1,7 @@
 # Instrução para realização do desafio área Business Inteligence
 
 
-Considere um conjunto de dados fornecido pela Justiça Federal no arquivo **selecaoEstagio.csv**, disponível nesse mesmo repositório. Os campos deste dataset estão descritos em seu cabeçalho e alguns procedimentos serão necessários para facilitar a análise dos dados. Para tanto você foi convocado para manipular os dados, criando um código em Python 3, usando um notebook Jupyter e realizar os seguintes procedimentos:
+Considere um conjunto de dados fornecido pela Justiça Federal no arquivo [selecaoEstagio.csv](../material-de-apoio/selecaoEstagio.csv), disponível nesse mesmo repositório. Os campos deste dataset estão descritos em seu cabeçalho e alguns procedimentos serão necessários para facilitar a análise dos dados. Para tanto você foi convocado para manipular os dados, criando um código em Python 3, usando um notebook Jupyter e realizar os seguintes procedimentos:
 
 >A. Ler o dataset direto do arquivo e carregá-lo numa estrutura de dados que suporte o armazenamento dos diferentes tipos de dados existentes nas colunas;
 
