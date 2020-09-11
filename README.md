@@ -12,11 +12,11 @@ Nesta fase o candidato terá **três** (3) desafios disponíveis e precisa escol
 
 Os desafios destinam-se às áreas da Tecnologia da Informação e Comunicação (TIC), nas especialidades contempladas neste documento, sendo elas:
 
-### Desenvolvimento:
-[Clique aqui para visualizar o desafio](desafios/DESENVOLVIMENTO.md).
-
 ### Business Intelligence:
 [Clique aqui para visualizar o desafio](desafios/BUSINESS_INTELLIGENCE.md).
+
+### Desenvolvimento:
+[Clique aqui para visualizar o desafio](desafios/DESENVOLVIMENTO.md).
 
 ### Gestão de Projetos:
 [Clique aqui para visualizar o desafio](desafios/PROJETOS.md).
