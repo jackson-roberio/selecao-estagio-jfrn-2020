@@ -8,7 +8,7 @@ Este documento tem por objetivo instruir e orientar sobre a segunda (2ª) fase a
 
 ## 1 - DESAFIOS
 
-Nesta fase o candidato terá **três** (3) desafios disponíveis e precisa escolher **duas**.
+Nesta fase o candidato terá **três** (3) desafios disponíveis e precisa escolher **dois**.
 
 Os desafios destinam-se às áreas da Tecnologia da Informação e Comunicação (TIC), nas especialidades contempladas neste documento, sendo elas:
 
@@ -37,6 +37,6 @@ Ao enviar o desafio, o candidato abre mão de todo e qualquer direito intelectua
 
 Todo material produzido e colhido pelos participantes do processo seletivo de estágio da JFRN no ano de 2020, não tem fim comercial e a justiça não compartilha as informações colhidas neste processo seletivo por terceiros;
 
-A JFRN não garante a permanencia deste repositório após a homologação do processo seletivo.
+A JFRN não garante a permanência deste repositório após a homologação do processo seletivo.
 
 Desejamos boa sorte!!
